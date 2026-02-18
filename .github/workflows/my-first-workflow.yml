@@ -30,7 +30,5 @@ jobs:
     - name: Run tests
       run: npm test
 
-    - name: 
-
     - name: Print a message
       run: echo "Hello, world!"
