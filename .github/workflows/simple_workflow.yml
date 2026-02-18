@@ -1,4 +1,4 @@
-name: SimpleExample
+name: SimpleExample 
 
 on: [push]
 
