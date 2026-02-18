@@ -40,4 +40,4 @@ jobs:
       run: echo "Hello, world!"
 
     - name: Run custom action
-      uses: Kimpire/business-greetings-action@main
+      uses: Kimpire/business-greetings-action@master
